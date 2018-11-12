@@ -8,6 +8,14 @@
     4. Prototype - Design and prepare prototype(s) that can be tested with people
     5. Test - Conduct 1:1 user testing with (5-6) people from the product's primary target audience. Ask good questions.
 
+* Delivaerables
+The main deliverables after the Design sprint:
+    * Answers to a se tof vital questions
+    * Findings from the sprint (notes, user journey maps, storyboards, information architecture diagrams, etc.)
+    * Prototypes
+    * Report from the user testing with the findings (backed by testing video)
+    * A plan for next steps
+    * Validate or invalidate hypotheses before committing resources to build the solution.
 
 ### Lean Startup ###
 * Minimum viable product
