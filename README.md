@@ -1,4 +1,5 @@
 #Methodology
+
 ###Design Sprint:###
 * Phase:
     1. Understand - Discover the business opportunity, the audience, the competition, the value proposition, and define metrics of success.
