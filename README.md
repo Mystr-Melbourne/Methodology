@@ -1,6 +1,6 @@
-#Methodology
+# Methodology
 
-###Design Sprint:###
+### Design Sprint ###
 * Phase:
     1. Understand - Discover the business opportunity, the audience, the competition, the value proposition, and define metrics of success.
     2. Diverge - Explore, develop and iterate creative ways of solving the problem, regardless of feasibility.
@@ -9,7 +9,7 @@
     5. Test - Conduct 1:1 user testing with (5-6) people from the product's primary target audience. Ask good questions.
 
 
-###Lean Startup###
+### Lean Startup ###
 * Minimum viable product
 * Continuous deployment (only for software development)
 * Split testing
