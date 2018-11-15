@@ -15,7 +15,8 @@
   * **cleaning?**
   * **catering?**
   * **bartending?**/
-  Test 2: Compare the payscale and budget of employees VS contractors\
+ 
+ Test 2: Compare the payscale and budget of employees VS contractors\
   with salaries online, make a graph date with min, max, mean.
 
   > **Fail Condition:**\
